@@ -73,7 +73,7 @@ npm run test:watch
 
 ## Summary
 
-1. Identify the scenarios in your arkdown feature files
+1. Identify the scenarios in your Markdown feature files
 2. Create helper functions for your Given/When/Then steps
 3. Implement the scenarios using either the nested describe approach or the concise approach
 4. Use comments to maintain readability and document the steps
