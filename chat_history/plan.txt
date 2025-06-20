@@ -1,0 +1,9 @@
+1. Explore the docs directory to understand existing documentation
+2. Review the create-invoice.md file to understand the requirements
+3. Examine the current project structure to understand the codebase
+4. Identify where to implement the invoice functionality
+5. Implement the invoice domain logic (aggregates, entities, value objects)
+6. Implement the invoice creation functionality
+7. Add validation logic for line items
+8. Create tests to verify the implementation
+9. Run tests to ensure everything works correctly
