@@ -1,0 +1,49 @@
+## Me
+I would like you to review the files in @docs and implement the behavior defined in @create-invoice.md.
+
+## AI Assistant
+I'll review the files and implement the behavior defined in the create-invoice.md file. Let me explore the project structure first to understand what files I need to create or modify.Let me explore the existing project structure to understand what I need to implement based on the invoice creation requirements.Let me check if there's an existing domain folder structure for the invoice implementation:I need to implement the behavior defined in the create-invoice.md document based on the domain model defined in aggregates.md. Let's create the necessary files for our invoice management system.
+
+First, I'll create the domain models (value objects, entities, and aggregates) as defined in the aggregates.md file.Based on the feature requirements and aggregate definitions, I'll implement the Invoice management functionality. First, I need to create the necessary model types and entities.
+
+Let's start by creating the domain models for our Invoice aggregate:Now that I've reviewed the code and the requirements, I'll implement the behavior defined in the create-invoice.md file. I'll create the necessary components and domain models based on the aggregates.md and create-invoice.md documents.
+
+Let me build a solution for the invoice management system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
