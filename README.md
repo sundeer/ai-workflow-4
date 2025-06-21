@@ -15,6 +15,7 @@ The project serves as a controlled experiment where the same prompt and requirem
 
 | Branch | IDE | AI Assistant | Model |
 |--------|-----|--------------|-------|
+| `bdd-cursor-claud3.3.5` | Cursor | Built-in AI | Claude 3.5 |
 | `bdd-jetbrains-ai-assistant-claud4` | JetBrains | AI Assistant | Claude 4 |
 | `bdd-jetbrains-gemini2.5pro` | JetBrains | AI Assistant | Gemini 2.5 Pro |
 | `bdd-jetbrains-junie` | JetBrains | AI Assistant | Junie |
